@@ -1,6 +1,5 @@
 from keras import layers, Sequential
 from keras.datasets import mnist
-import numpy as np
 from keras.models import load_model
 import os
 
