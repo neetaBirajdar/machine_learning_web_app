@@ -1,0 +1,8 @@
+
+uvicorn
+keras
+fastapi
+torch
+torchvision
+torchaudio
+python-multipart
