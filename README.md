@@ -1,7 +1,7 @@
 # machine_learning_web_application
 
 Machine learning can be more fun when you create a beginners application with it. The magic happening live 🪄 .
-So, I have created this basic web-application which detects/predicts the input number provided to it via an image format. More details are : blog/tech_ml_application/
+So, I have created this basic web-application which detects/predicts the input number provided to it via an image format. More details are : [blog/tech_ml_application/](https://neetabirajdar.github.io/blog/tech_ml_application/)
 
 ## How to start running the application: 
 
